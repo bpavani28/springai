@@ -1,0 +1,6 @@
+Product A costs $100.
+Product B costs $200.
+Product C costs $300.
+Product C has a 20% discount for customers purchasing more than 10 units.
+Product A is available in India, USA and UK.
+Product B is currently available only in India and USA.

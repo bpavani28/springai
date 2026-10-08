@@ -1,0 +1,4 @@
+This chotbot app retrieves the information from documents and web search both.. 
+Update the system as required.
+
+update OPENAI_API_KEY in application.properties , openai model
